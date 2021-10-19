@@ -2,6 +2,8 @@
 The HTML Link Hopper takes in a link and number of hops then hops to different links until there are no more
 unique links or no more hops. 
 
+![image](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
+
 # Usage
 First, build the Java file in terminal with:
 
