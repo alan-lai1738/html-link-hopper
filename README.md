@@ -11,7 +11,7 @@ javac HTMLLinkHopper.java
 
 then compile with
 
-java HTMLLinkHopper <link> <number of hops>
+java HTMLLinkHopper (website URL) (number of hops)
 
 # What it Does
 This program takes two arguments which is:
