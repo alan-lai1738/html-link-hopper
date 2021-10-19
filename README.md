@@ -3,11 +3,13 @@ The HTML Link Hopper takes in a link and number of hops then hops to different l
 unique links or no more hops. 
 
 # Usage
-First, build the Java file with
+First, build the Java file in terminal with:
+
 javac HTMLLinkHopper.java
 
 then compile with
-java HTMLLinkHopper <link>
+
+java HTMLLinkHopper <link> <number of hops>
 
 # What it Does
 This program takes two arguments which is:
